@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-这个是一个简单的WEB项目
+这个是一个简单的WEB项目V2
 </body>
 </html>
